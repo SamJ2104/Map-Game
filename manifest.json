@@ -1,0 +1,52 @@
+{
+    "name": "Flag GAme",
+    "short_name": "Flag Game",
+    "description": "Guess the flag",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f5f5f5",
+    "theme_color": "#f5f5f5",
+    "icons": [
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "48x48",
+        "type": "image/png"
+      },
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
